@@ -1,0 +1,3 @@
+### About
+
+Mental health stability is an ever-increasing issue especially during such a time that has never been experienced by people in their lifetimes. We see quirk by elixir as a "front-door" to professional help. Many people neglect seeking a therapist or psychiatrist because they don't feel their problem is "big enough" or they're not aware just how effective Cognitive Behavioral Therapy (CBT) can be.
